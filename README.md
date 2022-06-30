@@ -1,33 +1,10 @@
-<p align="center">
-    <img src="cover.png" alt="Flutter" />
-</p>
-<p align="center">
-    <a href="https://www.youtube.com/channel/UCtHlgyUw0wLE5Ous9swfFlg">
-        <img src="https://img.shields.io/badge/my-youtube channel-red.svg" alt="Youtube" />
-    </a>
-    <a href="https://ithinkdiff.net/">
-        <img src="https://img.shields.io/badge/mobile-apps-yellow.svg" alt="ithinkdiff.net" />
-    </a>
-    <a href="https://twitter.com/mahmudahsan">
-        <img src="https://img.shields.io/badge/contact%40-mahmudahsan-blue.svg" alt="Twitter: @mahmudahsan" />
-    </a>
-</p>
-
-
 # Vote - A full Flutter Application
-- [Video Tutorial 1: Building the app](https://www.youtube.com/watch?v=Iu9DpbzR83s)
-- [Video Tutorial 2: Add Firebase Authentication and Firestore Database](https://youtu.be/N6DF-zz9c6o)
-- [Video Tutorial 3: Migrating Provider 4.0 and Fix Android Firebase Authentication issues](https://www.youtube.com/watch?v=8W8zT0MKLWk)
 
 > - [Migration to Provider 4.0](#migration-to-provider-4)
 > - [Firebase configuration for android](#firebase-configuration-for-android)
 
 > A flutter and firebase based vote application. 
 For state management we used, [Provider](https://pub.dev/packages/provider). 
-
-> If you need to know how to use [Provider](https://pub.dev/packages/provider), please
-> - [How to use Provider 3.0](https://www.youtube.com/watch?v=fEIdWV8MAso)
-> - [Migrating Provider 3 to 4](https://youtu.be/xR-2rM_99-E)
 
 ### Demo 2.0
 
@@ -38,19 +15,6 @@ For state management we used, [Provider](https://pub.dev/packages/provider).
 <p align="center">
     <img src="demo1.jpg" alt="Demo" />
 </p>
-
-### Features and Updates
-> Version 3.0
-> 1. Provider library updated to version 4.0
-> 2. All other 3rd party libraries updated
-> 3. All related app code updated to support provider 4.0
-> 4. Android auth fix in firebase and in config 
-
-> Version 2.0
-> 1. User can sign in
-> 2. User can see vote List from Firebase
-> 3. User can vote
-> 4. User can see result
  
  ### Authentication Flow Chart
  <p align="center">
@@ -171,11 +135,3 @@ https://stackoverflow.com/questions/15727912/sha-1-fingerprint-of-keystore-certi
 - [Official Site](https://flutter.dev/)
 - [Widget Category](https://flutter.dev/docs/reference/widgets)
 - [Pub.Dev](https://pub.dev/)
-
-
-## Support
-If it helps you, please give a ***star*** in this repo. Also you can support me by subscribing my [youtube channel](https://www.youtube.com/channel/UCtHlgyUw0wLE5Ous9swfFlg). 
-
-## Questions or feedback?
-
-Feel free to open an issue, or find me [@mahmudahsan on Twitter](https://twitter.com/mahmudahsan).
